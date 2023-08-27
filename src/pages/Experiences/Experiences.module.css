@@ -1,0 +1,24 @@
+.experience {
+  margin-bottom: 45px;
+}
+
+.experience ul {
+  padding-left: 15px;
+}
+
+.experience li {
+  color: #435334;
+  margin-bottom: 10px;
+}
+
+.internship {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+  margin-bottom: 20px;
+}
+
+.internship h3,
+.internship span {
+  color: #435334;
+}

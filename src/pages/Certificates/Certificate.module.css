@@ -1,0 +1,16 @@
+.certificates {
+  color: #435334;
+  margin-bottom: 45px;
+}
+
+.images {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  margin-top: 40px;
+}
+
+.images figcaption {
+  text-align: center;
+  color: #435334;
+}

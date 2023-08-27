@@ -1,0 +1,36 @@
+.education {
+  margin: 20px 0;
+  padding: 0 20px;
+  text-align: left;
+}
+
+.education ul {
+  color: #3b4b2c;
+  margin-top: 20px;
+  list-style: outside;
+}
+
+.education ul li {
+  color: #435334;
+  font-weight: 700;
+  margin-bottom: 5px;
+  margin-left: 15px;
+}
+
+.education ul p {
+  margin-bottom: 5px;
+  margin-left: 15px;
+  color: #cedebd;
+}
+
+.senior {
+  margin-bottom: 20px;
+}
+
+.univ {
+  margin-bottom: 20px;
+}
+
+.current {
+  margin-bottom: 20px;
+}

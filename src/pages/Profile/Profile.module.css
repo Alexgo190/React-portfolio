@@ -1,0 +1,29 @@
+.profile {
+  margin-bottom: 30px;
+}
+
+.profile p {
+  font-weight: 600;
+}
+
+.profile img {
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 10px auto;
+  object-fit: cover;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+
+.profile h3 {
+  color: #faf1e4;
+  margin-bottom: 10px;
+}
+
+.profile p {
+  color: #cedebd;
+}

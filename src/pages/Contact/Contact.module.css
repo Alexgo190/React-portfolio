@@ -1,0 +1,60 @@
+.contact {
+  /* margin: -10px 0; */
+  padding: 0 20px;
+  text-align: left;
+}
+
+.contact .telephone {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 25px;
+  gap: 20px;
+}
+
+.contact .telephone p {
+  color: #cedebd;
+}
+
+.contact .email {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 25px;
+  gap: 20px;
+}
+
+.contact .email p {
+  color: #cedebd;
+}
+
+.contact .github {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 25px;
+  gap: 20px;
+}
+
+.contact .github a {
+  color: #cedebd;
+}
+
+.contact .instagram {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 25px;
+  gap: 20px;
+}
+
+.contact .instagram a {
+  color: #cedebd;
+}
+
+.contact .location {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 25px;
+  gap: 20px;
+}
+
+.contact .location p {
+  color: #cedebd;
+}

@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Open-sans", sans-serif;
+}
+
+/*
+    COLOR : #faf1e4 , #cedebd , #9EB384 , #435334
+*/
+
+body {
+  /* DCC2B4 */
+  background-color: #abc0b7;
+}
+.container {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.wrapper {
+  display: flex;
+  width: 60%;
+  margin: 80px auto;
+  background-color: #faf1e4;
+  box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.32);
+  -webkit-box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.32);
+  -moz-box-shadow: -1px 1px 5px 0px rgba(0, 0, 0, 0.32);
+}

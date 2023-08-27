@@ -1,0 +1,25 @@
+.project {
+  color: #435334;
+  margin-bottom: 45px;
+}
+
+.project ul {
+  padding-left: 15px;
+  margin-top: 20px;
+}
+
+.project li {
+  margin-bottom: 10px;
+}
+
+.internship {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+  margin-bottom: 20px;
+}
+
+.internship h3,
+.internship span {
+  color: #435334;
+}

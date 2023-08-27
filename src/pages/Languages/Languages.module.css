@@ -1,0 +1,30 @@
+.languages {
+  margin: 20px 0;
+  padding: 0 20px;
+  text-align: left;
+  list-style: none;
+  color: #cedebd;
+}
+
+.languages h3 {
+  color: #faf1e4;
+}
+
+.indonesia {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 20px;
+  gap: 20px;
+}
+.english {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 20px;
+  gap: 40px;
+}
+.chinese {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 20px;
+  gap: 30px;
+}
